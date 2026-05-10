@@ -15,7 +15,7 @@
 ## 🚀 About me
 
 I design and build software focused on **execution, reliability, and automation**.  
-I like creating tools that solve real operational problems with clear, maintainable code.
+I focus on creating tools that solve real operational problems with clear, maintainable code.
 
 > **ES:** Desarrollo software orientado a ejecución, confiabilidad y automatización, con foco en soluciones reales y mantenibles.
 
