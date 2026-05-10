@@ -1,6 +1,6 @@
 # TommS2
 
-Desarrollo software con foco en sistemas, automatización y ejecución eficiente.
+Desarrollo de software con foco en sistemas, automatización y ejecución eficiente.
 
 ## Perfil
 
