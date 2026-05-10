@@ -42,7 +42,6 @@ I focus on creating tools that solve real operational problems with clear, maint
 ## 📊 GitHub analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TommS2&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TommS2&theme=tokyonight&hide_border=true" />
 </div>
 
