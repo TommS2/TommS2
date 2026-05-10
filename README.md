@@ -22,4 +22,4 @@ Me interesa construir herramientas que hagan trabajo real: código claro, proces
 
 ## Contacto
 
-Si necesitás hablar conmigo, podés escribirme por Discord (usuario en la bio).
+Contacto por Discord disponible en la bio.
